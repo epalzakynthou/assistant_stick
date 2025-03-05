@@ -11,6 +11,7 @@
  
 Arduino Nano ESP32
 καλώδιο USB
+αισθητήρες υπερήχων
 Buzzers 5V
 push buttons
 PLA νήμα 3D εκτυπωτή
