@@ -24,4 +24,4 @@ PLA νήμα 3D εκτυπωτή
 επαναφορτιζόμενη μπαταρία
 μπαταριοθήκη
 μικροϋλικά
-![smart stick arduino](https://github.com/user-attachments/assets/9658954c-57ce-4af3-b667-176caee9f7f0)
+
